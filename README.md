@@ -36,7 +36,7 @@
  - F1 혹은 ctrl+shift+p을 눌러 명령어 팔레트(Command Palette)를 열기
  - "Remote-SSH: Add new SSH Host..." 클릭
  - ssh {계정}@{Host 주소} -{port} 입력
-   예) etri@129.254.62.184
+   예) XXXX@129.254.XX.XXX
  - open folder 이용 "/home/msbaek/test/0_DeepLearning/" 으로 이동
 
  - 
