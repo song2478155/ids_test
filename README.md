@@ -23,7 +23,8 @@
  - test 폴더에 파일 복사 완료, "/data2/msbaek_dir/0_datasets/CIC-IDS-2017/CSVs/MachineLearningCVE" cicids2017 데이터셋 복사 완료
  - cd ../msbaek/test/
  - pip install -r requirements.txt
- - pip install torch==2.7.1+cu126 torchvision==0.18.1+cu126 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu126
+ - pip install torch==2.7.1+cu126 torchvision==0.22.1+cu126 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu126
+
 
 
 # 5.2 실행
